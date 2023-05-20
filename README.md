@@ -8,7 +8,7 @@
 </p>
 
 ### ꜰɪɴᴅ ᴍᴇ ᴏᴜᴛ ᴀᴛ
-[<img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logocolor=white" alt="Telegram Badge"/>](https://t.me/TEACH_TEAMOP) 
+[<img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logocolor=white" alt="Telegram Badge"/>](https://t.me/Botsexpert) 
 <a href="your-instagram-URL"> </a>
 [<img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>](https://instagram.com/cyber.teachteam)
 <p align="center">
