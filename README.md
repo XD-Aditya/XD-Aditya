@@ -10,7 +10,7 @@
 ### ꜰɪɴᴅ ᴍᴇ ᴏᴜᴛ ᴀᴛ
 [<img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logocolor=white" alt="Telegram Badge"/>](https://t.me/TEACH_TEAMOP) 
 <a href="your-instagram-URL"> </a>
-<img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>](https://instagram.com/cyber.teachteam?igshid=MzRlODBiNWFlZA==)
+[<img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>](https://instagram.com/cyber.teachteam)
 <p align="center">
 🖥𝐒𝐊𝐈𝐋𝐋
 <p>
