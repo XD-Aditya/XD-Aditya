@@ -22,6 +22,6 @@
 <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" style="margin-bottom: 4px;" height="30px">
 </p>
 𝐔𝐒𝐄𝐃 𝐋𝐀𝐍𝐆𝐔𝐀𝐆𝐄
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=XD-Aditya&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="XD-Aditya" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xd-Aditya&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="XD-Aditya" /></p>
 
 
