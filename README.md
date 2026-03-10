@@ -3,7 +3,7 @@
 𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒
 <p align="center">
     <b>ᴘʀᴏғɪʟᴇ ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/XD-Aditya/count.svg" />
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=xd-aditya&label=Profile%20views&color=0e75b6&style=flat" alt="xd-aditya" /> 
 </p>
 
 ### ꜰɪɴᴅ ᴍᴇ ᴏᴜᴛ ᴀᴛ
